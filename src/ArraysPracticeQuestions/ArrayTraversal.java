@@ -11,8 +11,8 @@ public class ArrayTraversal {
 	
 	public static void main(String[] args) {
 		
-		int a[]= {54, 43, 2, 1, 5};
-		ArrayTraversal.arrayTraversal(a);
+		int s[]= {54, 43, 2, 1, 5};
+		ArrayTraversal.arrayTraversal(s);
 
 	}
 
